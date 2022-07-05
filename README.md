@@ -14,5 +14,5 @@ npm i
 Simplemente deberás poner el TOKEN de tu BOT en la linea 59 del index.js y ya tendrás todo listo para usar el BOT.
 
 # Inicio
-node slashcommands.js
+node slashcommands.js\n
 node . o node index.js
