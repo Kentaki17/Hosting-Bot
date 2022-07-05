@@ -16,7 +16,7 @@ cd hosting-bot
 npm i
 
 # Configuración
-Simplemente deberás poner el TOKEN de tu BOT en la linea 59 del index.js y ya tendrás todo listo para usar el BOT.
+Simplemente deberás poner el TOKEN de tu BOT en la linea 59 del index.js y en la linea 14 del slashcommands.js y ya tendrás todo listo para usar el BOT.
 
 # Inicio
 node slashcommands.js
