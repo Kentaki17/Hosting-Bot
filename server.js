@@ -2,11 +2,11 @@ const express = require("express");
 const server = express();
 
 server.all("/", (req, res) => {
-    res.send("K-Security Iniciado")
+    res.send("BOT Iniciado")
 });
 
 function keepAlive() {
-    server.listen(3000, () => { console.log("K-Security Iniciado") });
+    server.listen(3000, () => { console.log("BOT Iniciado") });
 }
 
 module.exports = keepAlive;
