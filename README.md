@@ -5,14 +5,14 @@ Bot simple creado para aquellos discords dedicados a la venta de hostings, este 
 Token de Discord Developers.
 Node.js v16.15.0 o una más reciente.
 
-#Instalación
+# Instalación
 git clone https://github.com/Kentaki17/hosting-bot
 cd hosting-bot
 npm i
 
-#Configuración
+# Configuración
 Simplemente deberás poner el TOKEN de tu BOT en la linea 59 del index.js y ya tendrás todo listo para usar el BOT.
 
-#Inicio
+# Inicio
 node slashcommands.js
 node . o node index.js
