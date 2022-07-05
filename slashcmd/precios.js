@@ -45,7 +45,7 @@ module.exports = {
         const embed = new MessageEmbed()
             .setTitle(`<:kent:993161413927370792> Kentaki`)
             .setFields([
-                { name: `Guia de uso:`, value: `Haz clic en el menú y selecciona el apartado que quieres ver.ㅤㅤ\n [Soporte](https://discord.gg/EpvTeQxBJ2)` }
+                { name: `Guia de uso:`, value: `Haz clic en el menú y selecciona el apartado que quieres ver.ㅤㅤ\n [Soporte](https://discord.gg/KCNfHgfACb)` }
             ])
             .setThumbnail(interaction.user.displayAvatarURL())
             .setColor('ORANGE')
