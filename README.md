@@ -22,12 +22,7 @@ Simplemente deberás poner el TOKEN de tu BOT en la linea 59 del index.js y ya t
 node slashcommands.js
 
 
-
-
-
-
-
-
-
-
 node . o node index.js
+
+# Preview
+https://imgur.com/a/aN7PhKg
