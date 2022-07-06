@@ -6,7 +6,7 @@ Bot simple creado para aquellos discords dedicados a la venta de hostings, este 
 # Requisitos
 Token de Discord Developers.
 
-Node.js v16.15.0 o una más reciente.
+Node.js v16.15.0 o una más reciente
 
 # Instalación
 git clone https://github.com/Kentaki17/hosting-bot
