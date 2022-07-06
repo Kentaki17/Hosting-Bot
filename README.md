@@ -1,4 +1,6 @@
-# hosting-bot
+# Discord & Preview
+https://discord.gg/KCNfHgfACb , https://imgur.com/a/aN7PhKg
+# Hosting-bot
 Bot simple creado para aquellos discords dedicados a la venta de hostings, este bot cuenta con un comando de precios, tambien, se le añadirán comandos básicos para la administración como /ban, /kick ...
 
 # Requisitos
@@ -23,6 +25,3 @@ node slashcommands.js
 
 
 node . o node index.js
-
-# Preview
-https://imgur.com/a/aN7PhKg
