@@ -9,7 +9,7 @@ Token de Discord Developers.
 Node.js v16.15.0 o una más reciente.
 
 # Instalación
-git clone https://github.com/Kentaki17/hosting-bot
+git clone https://github.com/Kentaki17/Hosting-Bot
 
 
 cd hosting-bot
