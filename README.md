@@ -12,7 +12,7 @@ Node.js v16.15.0 o una más reciente.
 git clone https://github.com/Kentaki17/Hosting-Bot
 
 
-cd hosting-bot
+cd Hosting-Bot
 
 
 npm i
